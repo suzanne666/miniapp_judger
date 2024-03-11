@@ -1,0 +1,3 @@
+class DirConfig:
+    project_path = 'your project dir'
+    images_path = 'your iamges dir'

@@ -1,0 +1,16 @@
+{
+  "name": "miniapp_judger",
+  "version": "1.0.0",
+  "description": "小程序代码审查工具，自动检查已定义但没有使用的 css 样式、图片和用于渲染的变量。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suzanne666/miniapp_judger.git"
+  }
+}
